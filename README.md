@@ -20,8 +20,8 @@
 
 
 # Berikut adalah Outputnya
-![image](https://github.com/fzmauln/Project-UAS/assets/147571538/5870477f-46a0-4c8d-ba61-b8933817a595)
+![image](https://github.com/fzmauln/Project-UAS/assets/147571538/07d1e60b-25d0-4d24-ae74-3dd3dd34dc10)
 
-![image](https://github.com/fzmauln/Project-UAS/assets/147571538/0396b989-f058-4c64-ac00-5ada63bcadce)
+![image](https://github.com/fzmauln/Project-UAS/assets/147571538/c0e0c930-d7df-4a3e-996b-3cad5b3c7d83)
 
 # TERIMA KASIH
