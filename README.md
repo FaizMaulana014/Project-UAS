@@ -2,9 +2,9 @@
 
 # Profil
 
-| NAMA  :| ALVIN ALFANDY |
+| NAMA  :| FAIZ MAULANA |
 | --- | --- |
-| NIM   :| 312310473 |
+| NIM   :| 312310469 |
 | KELAS :| TI.23.A.5 |
 | DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
 | LINK YOUTUBE |                     |
