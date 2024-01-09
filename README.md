@@ -24,3 +24,4 @@
 
 ![image](https://github.com/fzmauln/Project-UAS/assets/147571538/0396b989-f058-4c64-ac00-5ada63bcadce)
 
+# TERIMA KASIH
